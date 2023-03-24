@@ -1,0 +1,11 @@
+C:\Users\hp\source\repos\KalkulatorGui\KalkulatorGui\bin\Debug\KalkulatorGui.exe.config
+C:\Users\hp\source\repos\KalkulatorGui\KalkulatorGui\bin\Debug\KalkulatorGui.exe
+C:\Users\hp\source\repos\KalkulatorGui\KalkulatorGui\bin\Debug\KalkulatorGui.pdb
+C:\Users\hp\source\repos\KalkulatorGui\KalkulatorGui\obj\Debug\KalkulatorGui.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\KalkulatorGui\KalkulatorGui\obj\Debug\KalkulatorGui.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\KalkulatorGui\KalkulatorGui\obj\Debug\KalkulatorGui.Form1.resources
+C:\Users\hp\source\repos\KalkulatorGui\KalkulatorGui\obj\Debug\KalkulatorGui.Properties.Resources.resources
+C:\Users\hp\source\repos\KalkulatorGui\KalkulatorGui\obj\Debug\KalkulatorGui.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\KalkulatorGui\KalkulatorGui\obj\Debug\KalkulatorGui.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\KalkulatorGui\KalkulatorGui\obj\Debug\KalkulatorGui.exe
+C:\Users\hp\source\repos\KalkulatorGui\KalkulatorGui\obj\Debug\KalkulatorGui.pdb
